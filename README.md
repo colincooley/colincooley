@@ -35,8 +35,14 @@
 
 <h3>🏆 My Github Stats:</h3>
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeLarson2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeLarson2&theme=tokyonight)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 
 
