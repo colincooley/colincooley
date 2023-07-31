@@ -9,8 +9,9 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I was in the Navy for 10 years and love jumping on trampolines!
 
-
+<br />
 <h3>✉ Find me on:</h3>
+<br />
 <p align="center">
  <a href="https://www.linkedin.com/in/lucas-larson-6a4bb799" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:lucas.m.larson2@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
@@ -31,6 +32,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+<h3>🏆 My Github Stats:</h3>
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeLarson2&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeLarson2&theme=tokyonight)
+
 
 
 
