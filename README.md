@@ -2,7 +2,7 @@
 <div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LukeLarson2.LukeLarson2"/>
  <div>
-<img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/> <span><img src="https://github.com/LukeLarson2"/></span>
+<img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/>
  </div>
 </div>
 
