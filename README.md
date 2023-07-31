@@ -1,6 +1,10 @@
 <h1>Hi there 👋 I'm LukeLarson2 but you can call me Luke 😁</h1>
+<div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LukeLarson2.LukeLarson2"/>
-<img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/>
+ <div>
+<img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/> <span><img src="https://github.com/LukeLarson2"/></span>
+ </div>
+</div>
 
 <h2>🎓 I'm a Junior Developer student with Galvanize and a 10 year US Navy Veteran </h2>
 
