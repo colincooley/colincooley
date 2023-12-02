@@ -15,10 +15,10 @@
 <br />
 <p align="left">
  <a href="https://www.linkedin.com/in/lucas-larson-6a4bb799" target="_blank" rel="noopener noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=linkedin", alt="Linkedin" height="40" style="vertical-align:top; margin:4px; margin-right:10px">
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
  </a>
  <a href="mailto:lucas.m.larson2@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin: 4px; margin-left: 10px">
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
  </a>
 </p>
 
