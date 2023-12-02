@@ -21,6 +21,7 @@
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
  </a>
 </p>
+<br />
 
 ## 🧰 Languages and Tools:
 <br />
