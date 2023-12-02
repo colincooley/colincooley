@@ -5,11 +5,11 @@
 
 ## 🎓 I'm a Junior Developer student with Galvanize and a 10 year US Navy Veteran
 
-- 🔭 I’m currently working on the continuation of my very first project called JS quest 2: The Next Level.
-- 🌱 I’m currently learning intermidiate full stack devopment from Galvanize.
-- 👯 I’m looking to collaborate on a multitude of projects with anyone.
-- 💬 Ask me about anything
-- ⚡ Fun fact: I was in the Navy for 10 years and love jumping on trampolines!
+- 🚀 Currently advancing my debut project, JS Quest 2: The Next Level.
+- 🌿 Deepening my skills in intermediate full-stack development through Galvanize's program Hackreactor.
+- 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
+- 🗨️ Feel free to inquire about any topic.
+- ✨ Interesting tidbit: Spent a decade in the Navy and have a passion for trampoline acrobatics!
 
 ## ✉ Find me on:
 <br />
