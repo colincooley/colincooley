@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LukeLarson2.LukeLarson2"/> <span><img src="https://img.shields.io/github/followers/LukeLarson2?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a Junior Developer student with Galvanize and a 10 year US Navy Veteran
+## 🎓 I'm a Intermediate Developer student in the Hackreactor Bootcamp and a 10 year US Navy Veteran
 
 - 🚀 Currently advancing my debut project, JS Quest 2: The Next Level.
 - 🌿 Deepening my skills in intermediate full-stack development through Galvanize's program Hackreactor.
