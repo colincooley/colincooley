@@ -1,15 +1,15 @@
-## Hi there 👋 I'm colincooley but you can call me Colin 😁 
+## Hi there 👋 I'm colincooley but you can call me Colin
 <div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colincooley.colincooley"/> <span><img src="https://img.shields.io/github/followers/colincooley?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a software engineer and an Air Force Reserves Officer
+## I'm a software engineer and an Air Force Reserves Officer
 
-- 🚀 Currently working on my project, GPLeet.
-- 🌿 Just concluded Galvanize's Hack Reactor intermediate full-stack development program.
-- 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
-- 🗨️ Feel free to inquire about any topic.
-- ✨ Interesting tidbit: I love cooking and eating! Previously worked in healthcare for 10 years!
+- Currently working on my project, GPLeet.
+- Just concluded Galvanize's Hack Reactor intermediate full-stack development program.
+- Eager to collaborate on diverse projects with fellow enthusiasts.
+- Feel free to inquire about any topic.
+- Interesting tidbit: I love cooking and eating! Previously worked in healthcare for 10 years!
 
 ## ✉ Find me on:
 <br />
@@ -23,7 +23,7 @@
 </p>
 <br />
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
