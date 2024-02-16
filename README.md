@@ -5,10 +5,9 @@
 
 ## I'm a software engineer and an Air Force Reserves Officer
 
-- Currently working on my project, GPLeet.
+- Currently working on the Crunchy Network Dapp, and my project GPLeet.
 - Just concluded Galvanize's Hack Reactor intermediate full-stack development program.
-- Eager to collaborate on diverse projects with fellow enthusiasts.
-- Feel free to inquire about any topic.
+- Eager to collaborate on projects with fellow enthusiasts.
 - Interesting tidbit: I love cooking and eating! Previously worked in healthcare for 10 years!
 
 ## ✉ Find me on:
