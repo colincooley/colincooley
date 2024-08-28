@@ -3,10 +3,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colincooley.colincooley"/> <span><img src="https://img.shields.io/github/followers/colincooley?label=Followers&logo=Github"/></span>
 </div>
 
-## I'm a software engineer and an Air Force Reserves Officer
+## I'm a software engineer and blockchain enthusiast 
 
-- Currently working on the Crunchy Network Dapp, and my project GPLeet.
-- Just concluded Galvanize's Hack Reactor intermediate full-stack development program.
+- Currently working on <a href="https://forma.art/">Forma</a>, and my project <a href="https://gpleet.up.railway.app/">GPLeet</a>.
+- I also work for my local municipality's health department as a database developer.
 - Eager to collaborate on projects with fellow enthusiasts.
 - Interesting tidbit: I love cooking and eating! Previously worked in healthcare for 10 years!
 
